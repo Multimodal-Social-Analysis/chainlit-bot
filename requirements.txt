@@ -1,0 +1,17 @@
+# pip install -r requirements.txt
+chainlit==1.0.502
+openai==1.17.1
+python-dotenv==1.0.1
+#langchain==0.1.13
+#huggingface-hub==0.21.4
+#langchain-community==0.0.29
+#transformers==4.39.1
+#fastapi==0.100.1
+#urllib3==1.26.18
+# torch
+# InstructorEmbedding
+# sentence-transformers
+# faiss-cpu
+# python-dotenv
+# altair
+# tiktoken
